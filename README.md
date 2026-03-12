@@ -36,7 +36,7 @@ Asna — CodeAlpha Cloud Computing Intern
 
 GitHub: https://lnkd.in/dnr7D7Sv
 
-LinkedIn: linkedin.com/in/asna-haris-684058319
+LinkedIn: https://www.linkedin.com/in/asna-haris-684058319/
 
 
 ## 📄 License
