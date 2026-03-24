@@ -34,7 +34,7 @@ A fully functional cloud-based bus ticket booking system built with HTML, CSS, J
 ## 👤 Author
 Asna — CodeAlpha Cloud Computing Intern  
 
-GitHub: https://github.com/asnaharis06-bot
+GitHub: https://github.com/asnahar1s
 
 LinkedIn: https://www.linkedin.com/in/asna-haris-684058319/
 
